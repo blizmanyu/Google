@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Google.Calendar
+namespace Yutaka.Google
 {
-    public class Class1
-    {
-    }
+	public class CalendarUtil
+	{
+		public CalendarUtil() { }
+	}
 }
